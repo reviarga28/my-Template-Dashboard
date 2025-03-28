@@ -6,7 +6,7 @@ const Navbar = ({ isDarkMode, toggleDarkMode, toggleSidebar }) => {
     <nav className={`
       flex justify-between 
       items-center 
-      p-4 
+      p-4.5
       bg-white 
       dark:bg-gray-800 
       shadow-sm

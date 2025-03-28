@@ -3,7 +3,9 @@ import Layout from '../components/Navbar/Layout'
 
 const PageOne = () => {
   return (
-    <Layout></Layout>
+    <Layout>
+        
+    </Layout>
   )
 }
 
